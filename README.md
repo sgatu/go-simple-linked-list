@@ -1,7 +1,7 @@
 ### Simple linked list in go
 
 #### How to install
-``` go get github.com/sgatu/go-simple-linked-list@v1.0.5 ```
+``` go get github.com/sgatu/go-simple-linked-list@v1.0.6 ```
 
 #### How to use
 ```go
